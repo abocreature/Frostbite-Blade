@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="3cae2e56-9871-4cef-bba6-96845ea765fa"/>
+                    <attribute id="Name" type="FixedString" value="Wizard cantrips (Intelligence) RimefrostBlade"/>
+                    <attribute id="Spells" type="LSString" value="Target_RimefrostBlade"/>
+                    <attribute id="UUID" type="guid" value="f60821c1-745c-4743-9e94-260a8fff9c2c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="f5c4af9c-5d8d-4526-9057-94a4b243cd40"/>
+                    <attribute id="Name" type="FixedString" value="Warlock cantrips (Charisma) RimefrostBlade"/>
+                    <attribute id="Spells" type="LSString" value="Target_RimefrostBlade"/>
+                    <attribute id="UUID" type="guid" value="a2de2b91-d76e-4938-88aa-c43bc2f482ec"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="485a68b4-c678-4888-be63-4a702efbe391"/>
+                    <attribute id="Name" type="FixedString" value="Sorcerer cantrips RimefrostBlade"/>
+                    <attribute id="Spells" type="LSString" value="Target_RimefrostBlade"/>
+                    <attribute id="UUID" type="guid" value="6c90f574-d7c1-418a-b34a-451ca2058aff"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="b8faf12f-ca42-45c0-84f8-6951b526182a"/>
+                    <attribute id="Name" type="FixedString" value="Druid Cantrips RimefrostBlade"/>
+                    <attribute id="Spells" type="LSString" value="Target_RimefrostBlade"/>
+                    <attribute id="UUID" type="guid" value="741c0ac0-3600-42df-b820-f4b28e1e50e6"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

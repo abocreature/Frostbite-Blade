@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h6680fa1cg0c28g6481g6fdag61e42eddaa3f" version="1">Rimefrost Blade
+</content>
+  <content contentuid="h5fc96f75g0265g8c05ga38dgc4b069659ed9" version="1">Rimefrost Blade</content>
+  <content contentuid="he6e386bfgbfa4g6ed7g3149gef8aa283679a" version="1">Affected entity will take [1] when it attacks the caster.</content>
+  <content contentuid="h523947f4g66f8g9013gbc3cg7e402fd5c15c" version="1">%%% Rimefrost Blade Immunity</content>
+  <content contentuid="hccb1c9c5gcc35g2becg3ea0g6b7b6443c574" version="1">Rimefrost Blade Damage</content>
+  <content contentuid="hfe5a2389g6fa3g2998gd78fgcfca807a6303" version="1">Rimefrost Blade</content>
+  <content contentuid="h6a9cc503g1b65geca8g927dge7c30db01cc2" version="1">Strike with your weapon, afflicting your foe with a resonance that hurts them for [1] when they make their next attack.</content>
+</contentList>

@@ -1,0 +1,8 @@
+new entry "RimefrostBlade_Attack_Passive"
+type "PassiveData"
+data "DisplayName" "h6680fa1cg0c28g6481g6fdag61e42eddaa3f;1"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "not HasStatus('RIMEFROST_BLADE_DAMAGE_IMMUNITY');"
+data "StatsFunctors" "ApplyStatus(SELF, RIMEFROST_BLADE_DAMAGE,100,0);ApplyStatus(SELF, RIMEFROST_BLADE_DAMAGE_IMMUNITY, 100, 0);"
+
